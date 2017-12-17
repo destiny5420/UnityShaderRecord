@@ -14,3 +14,13 @@ This is shader record for myself.
 > * _FirstTex: 第一張貼圖<br />
 > * _SecondTex: 第二張貼圖<br />
 > * _BlendAmount: 控制顯示貼圖的參數<br />
+
+### RampTexture (色階貼圖混合模型顏色) <br />
+
+> 此Shader主要是利用一張色階貼圖在原本的貼圖上製作混色效果<br />
+> * _MainTex: 主要貼圖<br />
+> * _ColorRampTex: 色階貼圖<br />
+> * _ColorRampEvaluationX: 取得色階貼圖UV的X座標<br />
+> * _ColorRampEvaluationY: 取得色階貼圖UV的Y座標<br />
+>
+> ![Alt text](https://drive.google.com/uc?export=view&id=18CvXxMejbc9FZi8hBa0reo79IK48dg8B)
