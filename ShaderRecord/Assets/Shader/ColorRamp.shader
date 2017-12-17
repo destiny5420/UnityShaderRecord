@@ -3,6 +3,7 @@
 	Properties
 	{
 		_MainTex ("MainTexture", 2D) = "white" {}
+		[Header(Color Ramp Sample)]
 		[NoScaleOffset]_ColorRampTex ("ColorRamTexture", 2D) = "white" {}
 		_ColorRampEvaluationX ("ColorRampEvaluationX", Range(0, 1)) = 0.5
 		_ColorRampEvaluationY ("ColorRampEvaluationY", Range(0, 1)) = 0.5
