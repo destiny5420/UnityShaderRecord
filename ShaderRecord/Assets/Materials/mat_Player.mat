@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: mat_Player
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: 20c43c317fdcb4060b9f4c5cc5257824, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -70,8 +70,8 @@ Material:
     - _BlendAmount: 1
     - _BumpScale: 1
     - _ColorRampEvaluation: 0.297
-    - _ColorRampEvaluationX: 0.298
-    - _ColorRampEvaluationY: 0.311
+    - _ColorRampEvaluationX: 0.246
+    - _ColorRampEvaluationY: 0.386
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
